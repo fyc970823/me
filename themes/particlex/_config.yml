@@ -27,23 +27,23 @@ menu:
     Home:
         name: house
         theme: solid
-        link: /me/           # <--- 改成 /me/
+        link: /me           # <--- 改成 /me/
     About:
         name: id-card
         theme: solid
-        link: /me/about/     # <--- 改成 /me/about/
+        link: /about     # <--- 改成 /me/about/
     Archives:
         name: box-archive
         theme: solid
-        link: /me/archives/
+        link: /archives
     Categories:
         name: bookmark
         theme: solid
-        link: /me/categories/
+        link: /categories
     Tags:
         name: tags
         theme: solid
-        link: /me/tags/
+        link: /tags
 
 # Side info card
 card:
