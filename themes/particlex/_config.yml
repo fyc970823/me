@@ -27,11 +27,11 @@ menu:
     Home:
         name: house
         theme: solid
-        link: /me/           # <--- 改成 /me/
+        link: /           # <--- 確保是這樣寫，不要寫 me/ 或 /
     About:
         name: id-card
         theme: solid
-        link: /about/     # <--- 改成 /me/about/
+        link: /about/     # <--- 加上開頭斜線，強制從根目錄開始找
     Archives:
         name: box-archive
         theme: solid

@@ -244,9 +244,9 @@
     color: #999;
 }
 #home-posts .post {
-    background: #fff;
+    background: #001749;
     border-radius: 20px;
-    box-shadow: 0 0 20px #d9d9d980;
+    box-shadow: 0 0 20px #00021680;
     transition: box-shadow 0.25s, transform 0.25s;
 }
 #home-posts .post .category-and-date {
@@ -701,8 +701,8 @@ blockquote {
     padding: 0 15px;
 }
 body {
-    background: #f6f8fa;
-    color: #1e3e3f;
+    background: #002346;
+    color: #ececec;
     font: 500 14px Lexend, "Noto Sans SC", sans-serif;
     overflow-x: hidden;
     width: 100%;
